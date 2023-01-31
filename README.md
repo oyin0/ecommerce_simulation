@@ -1,1 +1,2 @@
-# ecommerce_simulation
+# Ecommerce Simulation
+Using agents that can converse with one another, this implementation mimics a multi-agent trading system. The behaviour of the agents and their interactions are modeled using a Java application. Three agents cooperate in this scenario's e-commerce system to buy and sell groceries. The agents are the buyer, seller and broker agent. The buyer is given options to pick from. If they choose to make a search of the product they want, they pick the option and input the product name. The product is shown with the corresponding prices then added to their cart if it’s available in the catalogue. They can decide to check their shopping cart or proceed to checkout. The seller can add new products to the catalogue.
